@@ -12,9 +12,8 @@ El objetivo es proporcionar datasets de ejemplo que muestren la distribución de
 El archivo comprimido (`GPV1.13.rar`) incluye un carpeta GPV1.13:
 
 - `GPV1.13.exe` → aplicación lista para ejecutar en Windows.  
-- `Manual_Usuario_PokerGenerator.docx` → documento en donde explica la aplicacion.  
-- `Muesta_Generar_Partidas.ipynb` → Cuadernos .  
-- `requirements.txt` → breve guía de uso.
+- `Manual_Usuario_PokerGenerator.docx` → Breve guia de uso(sin finalizar). 
+- `Muesta_Generar_Partidas.ipynb` → Cuaderno de muestra para  trabajar con los csv.  
 - files →carpeta en donde se encuentran archivos de la aplicacion.
 - ejemplo_resultado → carpeta en donde se encuentra un ejemplo del resultado tras ejecutar la aplicacion.
 ---
@@ -22,7 +21,7 @@ El archivo comprimido (`GPV1.13.rar`) incluye un carpeta GPV1.13:
 ## 🚀 Uso
 
 1. Descarga y descomprime el archivo `PokerGenerator.rar`.  
-2. Ejecuta **`PokerGenerator.exe`**.  
+2. Ejecuta **GPV1.13**.  
 3. El programa generará automáticamente datasets en formato `.csv` dentro de la carpeta `files/`.  
 4. Cada archivo contiene partidas simuladas con las siguientes columnas principales:
    - `c1..c7` → valores de las cartas.  
