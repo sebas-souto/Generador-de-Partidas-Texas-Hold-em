@@ -48,8 +48,8 @@ Podrás ver estadísticas como:
 - Requiere instalación ni dependencias adicionales, anexas en requirements.txt  
 
 ## Links de interes:
--https://www.python.org/downloads/ 
--\n https://colab.research.google.com/
+- https://www.python.org/downloads/ 
+- https://colab.research.google.com/
 ---
 
 ## ℹ️ Notas
