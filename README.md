@@ -49,7 +49,7 @@ Podrás ver estadísticas como:
 
 ## Links de interes:
 -https://www.python.org/downloads/ 
--https://colab.research.google.com/
+-\n https://colab.research.google.com/
 ---
 
 ## ℹ️ Notas
