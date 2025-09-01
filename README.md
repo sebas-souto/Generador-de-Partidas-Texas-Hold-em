@@ -9,13 +9,14 @@ El objetivo es proporcionar datasets de ejemplo que muestren la distribución de
 
 ## 📦 Contenido
 
-El archivo comprimido (`PokerGenerator.rar`) incluye:
+El archivo comprimido (`GPV1.13.rar`) incluye un carpeta GPV1.13:
 
-- `PokerGenerator.exe` → aplicación lista para ejecutar en Windows.  
-- `files/` → carpeta donde se guardarán los CSV generados automáticamente.  
-- `Version.txt` → número de versión y cambios.  
-- `Manual.txt` → breve guía de uso.
-
+- `GPV1.13.exe` → aplicación lista para ejecutar en Windows.  
+- `Manual_Usuario_PokerGenerator.docx` → documento en donde explica la aplicacion.  
+- `Muesta_Generar_Partidas.ipynb` → Cuadernos .  
+- `requirements.txt` → breve guía de uso.
+- files →carpeta en donde se encuentran archivos de la aplicacion.
+- ejemplo_resultado → carpeta en donde se encuentra un ejemplo del resultado tras ejecutar la aplicacion.
 ---
 
 ## 🚀 Uso
@@ -33,7 +34,7 @@ El archivo comprimido (`PokerGenerator.rar`) incluye:
 
 ## 📊 Ejemplo de análisis
 
-En la carpeta `/notebooks` de este repositorio encontrarás un **notebook de Google Colab** con ejemplos de análisis de los CSV generados.  
+El archivo Muesta_Generar_Partidas.ipynb es un notebooks de este repositorio encontrarás un **notebook de Google Colab** con ejemplos de análisis de los CSV generados.  
 Podrás ver estadísticas como:
 
 - Distribución de jugadas (Pareja, Trío, Full, Escalera Real, etc.).  
