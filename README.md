@@ -65,5 +65,5 @@ Consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 ## ✨ Autor
 
-Desarrollado por **[Tu Nombre o Nick]**.  
+Desarrollado por sebas-souto 
 Contribuciones, sugerencias o reportes de errores son bienvenidos en la sección de *Issues*.
