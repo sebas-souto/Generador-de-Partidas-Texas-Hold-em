@@ -47,6 +47,9 @@ Podrás ver estadísticas como:
 - Sistema operativo: **Windows 10 o superior**.  
 - Requiere instalación ni dependencias adicionales, anexas en requirements.txt  
 
+## Links de interes:
+-https://www.python.org/downloads/ 
+-https://colab.research.google.com/
 ---
 
 ## ℹ️ Notas
