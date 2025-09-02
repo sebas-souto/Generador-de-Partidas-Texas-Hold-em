@@ -1,0 +1,6 @@
+Funcionamiento:
+1-Selecciona el numero de jugadores ini y fin(2 al 10).
+2-Selecciona las simulaciones de partidas por jugadores.
+3-Selecciona la dirrecion en donde guardar los archivos.
+4-Pulsa el boton generar.
+5-Cuando dispongas de multiples ficheros de un mismo numero de jugadores en la misma carpeta, pulsa compactar para crear un unico archivo.
